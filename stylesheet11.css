@@ -23,7 +23,7 @@ header{
 }
 
 .hd sup{
-    font-size: 40px;
+    font-size: 35px;
     color: #550000;
 }
 .hd span{
@@ -132,7 +132,7 @@ nav{
     flex-wrap: wrap;
     font-size: 16px;
     padding: 10px;
-    
+    padding-bottom: 50px;
 }
 .cargotruck{
     height: 200px;
@@ -145,6 +145,7 @@ nav{
 
     background-color: #eeeeee;
     border-radius: 0 80px 0 80px;
+    margin-top: 40px;
 }
 .form-container{
     display: flex;
